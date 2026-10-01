@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "María López",
+    "rol": "Diseñadora de Moda",
+    "imagen": "/img/staff1.jpg",
+    "descripcion": "Especialista en alta costura y patronaje."
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Gómez",
+    "rol": "Encargado de Ventas",
+    "imagen": "/img/staff2.jpg",
+    "descripcion": "Atención personalizada."
+  },
+  {
+    "id": 3,
+    "nombre": "Belen de Andrea",
+    "rol": "Encargada de Imagen",
+    "imagen": "/img/staff3.jpg",
+    "descripcion": "Asesoramiento de imagen."
+  }
+]
