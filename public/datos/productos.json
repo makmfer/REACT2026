@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vestido Kampala",
+    "precio": 760000,
+    "stock": 5,
+    "imagen": "/img/kampala.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Vestido Holter",
+    "precio": 305000,
+    "stock": 3,
+    "imagen": "/img/holter.jpg"
+  },
+    {
+    "id":3,
+    "nombre": "Vestido Petra",
+    "precio": 560000,
+    "stock": 10,
+    "imagen": "/img/petra.jpg"
+  }
+]

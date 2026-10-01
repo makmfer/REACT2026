@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+}
+
+.container h1 {
+  text-align: left;
+  margin-bottom: 1.5rem; /* Opcional: para darle espacio respecto a la grilla */
+}
+
+.statusMessage {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--clr-muted);
+}
